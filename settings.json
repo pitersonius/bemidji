@@ -1,0 +1,11 @@
+{
+  "whisper_model": "ggml-russian-large-v3-turbo.bin",
+  "whisper_language": "auto",
+  "whisper_on": true,
+  "llm_provider": "lmstudio",
+  "llm_model": "mistralai/mistral-7b-instruct-v0.3",
+  "llm_context_length": 8192,
+  "custom_base_url": "http://localhost:1234/v1",
+  "custom_model": "",
+  "summary_language": "same"
+}
